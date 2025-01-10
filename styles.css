@@ -34,15 +34,26 @@
 .btn2{
     border-radius: 8px;
     background: rgb(84, 144, 245);
+    margin-top:72px;
+    width:122px;
+    height: 41px;
 }
 .btn3{
     border-radius: 8px;
     background: rgb(9, 161, 92);
+    margin-top:72px;
+    width:122px;
+    height: 41px;
 }
+
 .btn4{
     border-radius: 8px;
     background: rgb(255, 194, 57);
+    margin-top:72px;
+    width:122px;
+    height: 41px;
 }
+
 .head1{
     font-weight: bold;
 }
@@ -70,6 +81,16 @@
     font-size: 24px;
     color:#0E0E0E80 ;
 }
+.taitle1{
+    color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+margin-top:24px ;
+}
 
 .future > .vision {
     font-weight: bold;
@@ -84,6 +105,8 @@
     background: rgba(84, 144, 245, 0.2);
     width: 410.67px;
     height: 325px;
+    position: static;
+    padding: 32px;
 }                      
 .Transformation2{
     box-sizing: border-box;
@@ -91,6 +114,8 @@
     background: rgb(198, 228, 214);
     width: 410.67px;
     height: 325px;
+    position: static;
+    padding: 32px;
 }                      
 .Transformation3{
     box-sizing: border-box;
@@ -99,11 +124,20 @@
     background: rgb(247, 235, 207);
     width: 410.67px;
     height: 325px;
+    position: static;
+    padding: 32px;
 }      
 .Transformation{
     display: flex;
     gap:24px;
+    margin-top:32px;
+   justify-content: space-between;
 }  
+.Transformation-peragaraf{
+    font-weight: 400;
+    margin-top:12px;
+    font-size: 16px;
+}
 .future-all {
     margin-left: 160px;
     margin-right:160px;
