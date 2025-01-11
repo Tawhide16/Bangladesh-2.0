@@ -414,3 +414,13 @@ margin-bottom: 24px;
 .subscribe-btn > input > ::placeholder{
     text-align: center;
 }
+
+
+
+
+
+/* share style */
+.aaa:hover {
+    background-color: bisque;
+    color: red;
+}
