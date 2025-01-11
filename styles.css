@@ -364,7 +364,6 @@ margin-bottom: 24px;
     height:55px;
     color:#0E0E0E4D;
     border-radius:8px 0px 0px 8px 8px;
-    background-color: ;
     border: none;
 }
 .subscribe-btn .bttnn2{
@@ -411,4 +410,7 @@ margin-bottom: 24px;
     margin-bottom: 12px;
     font-weight: 600;
     font-size:24px ;
+}
+.subscribe-btn > input > ::placeholder{
+    text-align: center;
 }
