@@ -362,9 +362,9 @@ margin-bottom: 24px;
 .subscribe-btn input{
     width:600px;
     height:55px;
-    color: ;
+    color: white;
     border-radius:8px 0px 0px 8px 8px;
-    background-color: ;
+    background-color:#006A50 ;
     border: none;
 }
 .subscribe-btn .bttnn2{
@@ -392,4 +392,23 @@ margin-bottom: 24px;
     width: 82%;
     margin-left: 160px;
     margin-right: 160px;
+}
+/* younus */
+.younus{
+    background-image: url("./style/assets/quote-bg.png");
+    background-repeat: no-repeat;
+    padding: 48px 24px 48px 24px;
+    width: 1420px;
+    height: 256px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    margin-left:160px ;
+    margin-right:160px ;
+    margin-top: 32px;
+}
+.younus-taitle{
+    margin-top: 15px;
+    margin-bottom: 12px;
+    font-weight: 600;
+    font-size:24px ;
 }
